@@ -24,8 +24,8 @@ y_pre = add_layer(x_holder,200,4,activation_function=tf.nn.softmax,keep_r=1)
 
 # ***************************
 from IntelligentAssistantWriting.tf_demo.pre_data import *
-data_path = '/home/enhui/myworkspace/data/demo_data'
-# data_path = '/home/enhui/myworkspace/data/demo_data_test'
+data_path = '/home/myworkspace/data/demo_data'
+# data_path = '/home/myworkspace/data/demo_data_test'
 log_dir = '/home/enhui/temp/train_temp'
 # data_path = os.path.join(log_dir, data_file_name)
 pre_info_path = os.path.join(log_dir, 'Pre.info')
