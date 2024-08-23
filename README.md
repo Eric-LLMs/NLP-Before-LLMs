@@ -13,6 +13,7 @@ This repository contains a backup of NLP research and learning content from seve
 
 3. **TF Demo**
    - Seq2Seq
+   - DNN
    - RNN
    - CNN
 
