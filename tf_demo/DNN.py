@@ -21,8 +21,6 @@ k_holder = tf.placeholder(tf.float32,[None,4],name = 'keep_holder')
 # y_pre = add_layer(l1,500,4,activation_function=None)
 y_pre = add_layer(x_holder,200,4,activation_function=tf.nn.softmax,keep_r=1)
 
-
-# ***************************
 from IntelligentAssistantWriting.tf_demo.pre_data import *
 data_path = '/home/myworkspace/data/demo_data'
 # data_path = '/home/myworkspace/data/demo_data_test'
