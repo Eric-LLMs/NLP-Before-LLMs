@@ -21,6 +21,7 @@ This repository contains a backup of NLP research and learning content from seve
 
 5. **RL Demo**
    - Reinforcement Learning Demo (DQN, ...)
+   - AlphaGo
 
 6. **TextRank & TF-IDF for Keywords & Summary Demo**
 
