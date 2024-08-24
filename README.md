@@ -1,4 +1,4 @@
-# NLP_Before_LLMs
+# NLP-Before-LLMs
 
 This repository contains a backup of NLP research and learning content from several years ago.
 
