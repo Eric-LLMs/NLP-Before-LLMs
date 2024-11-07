@@ -31,4 +31,7 @@ This repository contains a backup of NLP research and learning content from seve
 
 9. **LDA**
 
-10. **POS Tagging**
+10. **POS Tagging**  
+  
+11. **n-gram**  
+  
