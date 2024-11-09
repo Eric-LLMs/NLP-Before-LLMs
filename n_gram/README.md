@@ -6,6 +6,5 @@ bin/build_binary -s mlmodel/lm.arpa_md_2  mlmodel/lm.arpa_md_2.bin
 ## data format
 
 氨 基 转 氨 酶  
-氨 基 转 氨 霉  
 膝 关 节 松 懈 术  
 
